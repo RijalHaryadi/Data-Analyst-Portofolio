@@ -43,9 +43,10 @@ The data was cleaned and transformed using Power Query before being analyzed in 
 
 ---
 
+
 ## 📊 Dashboard Preview
 
-![Coffee shop dashboard](Coffee%20shop%20dashboard.jpeg)
+<img src="Coffe%20shop%20dashboard.jpeg" alt="Coffee Shop Dashboard" width="900">
 
 ---
 
