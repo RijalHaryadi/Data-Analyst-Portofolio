@@ -47,12 +47,11 @@ The data was cleaned and transformed using Power Query before being analyzed in 
 ## 📁 Project Structure
 
 Coffee-Shop-Sales-Dashboard
-│
-├── Coffee Shop Sales.xlsx              # Raw dataset
-├── Coffee_Shop_EDA.ipynb               # Exploratory Data Analysis (Python)
-├── Coffee_Shop_Dashboard.pbix          # Power BI dashboard
-├── Coffee_Shop_Dashboard.jpeg          # Dashboard preview
-└── README.md
+
+- Coffee Shop Sales.xlsx              > Raw dataset
+- Coffee_Shop_EDA.ipynb               > Exploratory Data Analysis (Python)
+- Coffee_Shop_Dashboard.pbix          > Power BI dashboard
+- Coffee_Shop_Dashboard.jpeg          > Dashboard preview
 ```
 
 ```
