@@ -58,9 +58,7 @@ Coffee-Shop-Sales-Dashboard
 ```
 ## 📊 Dashboard Preview
 
-<img src="Coffe%20shop%20dashboard.jpeg" alt="Coffee Shop Dashboard" width="900">
-
----
+<img src="Coffee_Shop_Dashboard.jpeg" alt="Coffee Shop Dashboard" width="900">
 
 ## 🔍 Analysis Process
 
