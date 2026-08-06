@@ -40,6 +40,7 @@ I am currently building my portfolio to pursue a career as a **Data Analyst**, c
 ## ☕ Coffee Shop Sales Dashboard
 
 Interactive Power BI dashboard analyzing coffee shop sales performance, top-selling products, monthly revenue trends, and peak business hours.
+![Coffee Shop Dashboard](./Coffee-Shop-Sales-Dashboard/Coffe%20shop%20dashboard.jpeg)
 
 **Tools Used**
 - Power BI
