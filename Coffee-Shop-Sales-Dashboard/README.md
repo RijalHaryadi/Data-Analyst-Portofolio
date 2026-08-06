@@ -20,6 +20,8 @@ The main objectives of this project are to:
 ## 🛠️ Tools Used
 
 - Microsoft Excel
+- Python (Google Colab)
+- Pandas
 - Power BI
 - Power Query
 - DAX (Data Analysis Expressions)
@@ -42,8 +44,18 @@ The dataset contains coffee shop transaction data, including:
 The data was cleaned and transformed using Power Query before being analyzed in Power BI.
 
 ---
+## 📁 Project Structure
 
+Coffee-Shop-Sales-Dashboard
+│
+├── Coffee Shop Sales.xlsx              # Raw dataset
+├── Coffee_Shop_EDA.ipynb               # Exploratory Data Analysis (Python)
+├── Coffee_Shop_Dashboard.pbix          # Power BI dashboard
+├── Coffee_Shop_Dashboard.jpeg          # Dashboard preview
+└── README.md
+```
 
+```
 ## 📊 Dashboard Preview
 
 <img src="Coffe%20shop%20dashboard.jpeg" alt="Coffee Shop Dashboard" width="900">
@@ -54,13 +66,23 @@ The data was cleaned and transformed using Power Query before being analyzed in 
 
 The analysis was conducted through the following steps:
 
-1. Data Understanding
-2. Data Cleaning using Power Query
-3. Data Modeling
-4. Creating DAX Measures
-5. Building Interactive Dashboard
-6. Business Insight Generation
+1. Data Understanding using Python (Google Colab)
+2. Exploratory Data Analysis (EDA)
 
+The initial data exploration was performed using Python in Google Colab to understand the dataset before creating the dashboard.
+The EDA included:
+
+- Checking data types and dataset structure
+- Generating descriptive statistics
+- Identifying missing values
+- Exploring product categories
+- Understanding transaction distributions
+- Preparing the data for visualization in Power BI
+3. Data Cleaning & Transformation using Power Query
+4. Data Modeling
+5. Creating DAX Measures
+6. Building Interactive Dashboard
+7. Business Insight Generation
 ---
 
 ## 💡 Key Insights
@@ -84,6 +106,11 @@ Based on the analysis, several recommendations can be made:
 - Continue optimizing product offerings based on customer purchasing behavior.
 
 ---
+## 📒 Google Colab Notebook
+
+The complete Exploratory Data Analysis (EDA) is available in:
+
+- Coffee_Shop_EDA.ipynb
 
 ## 📌 Conclusion
 
